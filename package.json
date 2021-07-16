@@ -1,0 +1,24 @@
+{
+  "name": "faker-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nk1433/faker-js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nk1433/faker-js/issues"
+  },
+  "homepage": "https://github.com/nk1433/faker-js#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "faker": "^5.5.3",
+    "nodemon": "^2.0.12"
+  }
+}
